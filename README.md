@@ -1,1 +1,1 @@
-# boot-maven-sample
+# boot-gradle-sample
